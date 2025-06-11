@@ -1,6 +1,7 @@
 # ダミーサイトAlpha
 問い合わせフォームの自動送信ツール用のダミーサイト
-https://scoutian.github.io/alpha.github.io
+
+https://scoutian.github.io/dummy-alpha/
 
 ## 構成
 - HTML, CSS(bootstrap), JSのシンプルな構成
